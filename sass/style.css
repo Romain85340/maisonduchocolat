@@ -99,7 +99,7 @@ nav h1 span {
       -ms-flex-align: center;
           align-items: center;
   border-bottom: 1px solid black;
-  background: url(/ressource/main.jpg);
+  background: url(./ressource/main.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -262,7 +262,7 @@ nav h1 span {
   width: 600px;
   height: 300px;
   border-radius: 15px;
-  background: url(/ressource/article-image-1.jpg);
+  background: url(./ressource/article-image-1.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -294,7 +294,7 @@ nav h1 span {
   width: 600px;
   height: 300px;
   border-radius: 15px;
-  background: url(/ressource/article-image-2.jpg);
+  background: url(./ressource/article-image-2.jpg);
   background-position: center;
   background-size: cover;
 }
